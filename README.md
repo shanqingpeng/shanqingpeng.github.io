@@ -2,15 +2,15 @@
 
 ## 一、基础阶段
 
-**[1、Java基础](https://shanqingpeng.github.io/)**
+**[1、Java基础 √](https://github.com/shanqingpeng/shanqingpeng.github.io/blob/main/Java/%E4%B8%80%E3%80%81Java%E5%9F%BA%E7%A1%80/Java%E5%9F%BA%E7%A1%80.md/)**
 
-**[2、MySQL](https://shanqingpeng.github.io/)**
+**[2、MySQL √](https://github.com/shanqingpeng/shanqingpeng.github.io/blob/main/Java/%E4%B8%80%E3%80%81Java%E5%9F%BA%E7%A1%80/MySQL.md/)**
 
 **[3、Oracle](https://shanqingpeng.github.io/)**
 
 **[4、JDBC](https://shanqingpeng.github.io/)**
 
- **[5、JUC](https://github.com/shanqingpeng/shanqingpeng.github.io/blob/main/Java/%E4%B8%80%E3%80%81Java%E5%9F%BA%E7%A1%80/JUC.md/)**
+ **[5、JUC √](https://github.com/shanqingpeng/shanqingpeng.github.io/blob/main/Java/%E4%B8%80%E3%80%81Java%E5%9F%BA%E7%A1%80/JUC.md/)**
  
  **[6、NIO](https://shanqingpeng.github.io/)**
  
@@ -20,7 +20,7 @@
  
  **[9、IDE中配置Maven&Git](https://shanqingpeng.github.io/)**
  
- **[10、Java8](https://shanqingpeng.github.io/)**
+ **[10、Java8 √](https://github.com/shanqingpeng/shanqingpeng.github.io/blob/main/Java/%E4%B8%80%E3%80%81Java%E5%9F%BA%E7%A1%80/Java8%E6%96%B0%E7%89%B9%E6%80%A7.md/)**
  
  **[11、Java9](https://shanqingpeng.github.io/)**
  
@@ -34,7 +34,7 @@
  
  **[16、Java数据结构及算法](https://shanqingpeng.github.io/)**
  
- **[17、Java设计模式](https://shanqingpeng.github.io/)**
+ **[17、Java设计模式 √](https://github.com/shanqingpeng/shanqingpeng.github.io/blob/main/Java/%E4%B8%80%E3%80%81Java%E5%9F%BA%E7%A1%80/Java%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.md/)**
 
 ## 二、JavaWeb
 
